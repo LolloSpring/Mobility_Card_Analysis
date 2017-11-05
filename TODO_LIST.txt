@@ -1,0 +1,3 @@
+-) Insererire nel conteggio dei dipartimenti anche coloro che fanno il dottorato, nonostante questi siano pochi
+-) Fare grafico della series dipartimenti e percentuale di utenti che usufruiscono sul totale di studenti
+-) Fare grafico per corso di studio
