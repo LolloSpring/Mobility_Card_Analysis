@@ -1,0 +1,3 @@
+8401 users
+Guarda feature "TIPO_CORSO_DES" per individuare i Dottorati da cui non si indica il dipartimento di afferenza --> lo si capisce da CDS_DESC
+dovrai crearti un sistema grazie al quale se un corso appartiene ad una determinata lista legata alla sede (POVO, MESIANO, TRENTO, ROVERETO, SAN MICHELE) allora il contatore relativo alla sede aumenta di 1
